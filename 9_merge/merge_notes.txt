@@ -1,0 +1,4 @@
+how='left'
+how='right'
+how='outer'
+how='inner'
